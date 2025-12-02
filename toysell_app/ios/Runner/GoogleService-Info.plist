@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>700418486873-78ffljirdk8e699k8urf2n768vk7ks9m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.700418486873-78ffljirdk8e699k8urf2n768vk7ks9m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>700418486873-1e9ph7mrlumnn4kce0c2rth05qjgj2eq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6WGemlwxK4QUu3pNydx5pibBqnu9c75g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>700418486873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.toysells.app</string>
+	<key>PROJECT_ID</key>
+	<string>toy-sells-project-id</string>
+	<key>STORAGE_BUCKET</key>
+	<string>toy-sells-project-id.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:700418486873:ios:8688fd372cae00b1fbf748</string>
+</dict>
+</plist>

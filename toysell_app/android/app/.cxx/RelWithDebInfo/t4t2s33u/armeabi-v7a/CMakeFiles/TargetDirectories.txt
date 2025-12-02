@@ -1,0 +1,2 @@
+/Users/farhan/Documents/projects/toy-sells-app/toysell_app/android/app/.cxx/RelWithDebInfo/t4t2s33u/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/farhan/Documents/projects/toy-sells-app/toysell_app/android/app/.cxx/RelWithDebInfo/t4t2s33u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
